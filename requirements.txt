@@ -1,0 +1,7 @@
+-c constraints.txt
+# sphinx-design 0.0.1 depends on sphinx<5 and >=3
+Sphinx < 5, >= 3
+sphinx-design
+furo
+sphinxext-opengraph
+sphinx-copybutton
