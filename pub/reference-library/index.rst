@@ -90,7 +90,7 @@
 
     .. grid-item-card::
 
-        .. image:: https://www.mitp.de/out/pictures/generated/product/1/540_340_75/9783747502136.jpg
+        .. image:: https://www.mitp.de/out/pictures/generated/product/1/540_340_75/9783958459410-4.jpeg
             :alt: «Refactoring» von Martin Fowler
             :target: https://www.mitp.de/IT-WEB/Software-Entwicklung/Refactoring.html
 
