@@ -1,5 +1,5 @@
-Reference library
-=================
+📚 Reference library
+====================
 
 .. article-info::
     :author: `Veit Schiele <https://github.com/veit/>`_

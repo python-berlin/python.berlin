@@ -1,5 +1,5 @@
-Wish list
-=========
+✨ Wish list
+============
 
 .. article-info::
     :author: `Veit Schiele <https://github.com/veit/>`_

@@ -1,5 +1,5 @@
-Resources
-=========
+💡 Resources
+============
 
 .. article-info::
     :author: `Veit Schiele <https://github.com/veit/>`_
