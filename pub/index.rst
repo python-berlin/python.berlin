@@ -56,4 +56,4 @@ Meetup
 
    resources/index
    wish-list
-   reference-library
+   reference-library/index
