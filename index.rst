@@ -6,13 +6,13 @@ In Berlin there is a diverse scene around the Python programming language.
 
 .. grid:: 3
 
-    .. grid-item-card:: Python Users Berlin (PUB) 
+    .. grid-item-card:: Python Users Berlin (PUB)
 
         .. image:: pub/logo.png
             :alt: Python logo
             :target: pub/index.html
 
-    .. grid-item-card:: PyLadies Berlin 
+    .. grid-item-card:: PyLadies Berlin
 
         .. image:: pyladies-berlin/logo.png
             :alt: Pyladies Berlin logo
