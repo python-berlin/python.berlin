@@ -54,6 +54,7 @@ In Berlin there is a diverse scene around the Python programming language.
    djangogirls-berlin/index
    opentechschool-berlin/index
    pydata-berlin/index
+   collaboration
 
 .. Indices and tables
    ==================
