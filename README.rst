@@ -3,8 +3,7 @@ python.berlin
 =============
 
 The `python.berlin <https://python.berlin>`_ website allows all Berlin Python
-User Groups to introduce themselves, present presentation slides, code examples
-etc.
+User Groups to introduce themselves, present slides, code examples etc.
 
 .. collaboration:
 
