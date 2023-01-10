@@ -23,15 +23,17 @@ Download and installation
 
    .. code-block:: console
 
-    $ git clone git@github.com:python-berlin/python.berlin_website.git
+    $ git clone git@github.com:python-berlin/python.berlin.git
 
 #. Create virtual environment
 
    .. code-block:: console
 
-    $ cd python.berlin_website
-    $ python3 -m pip install -r requirements_dev.txt
+    $ cd python.berlin
+    $ $ python3 -m venv .
     $ source bin/activate
+    $ python -m pip install --upgrade pip
+    $ python -m pip install -r requirements_dev.txt
     $ pre-commit install
 
 #. Create HTML
