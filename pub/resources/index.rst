@@ -3,8 +3,19 @@
 
 .. article-info::
     :author: `Veit Schiele <https://github.com/veit/>`_
-    :date: 6 January 2023
+    :date: 12 January 2023
     :read-time: <1 min
+
+.. grid:: 1
+
+    .. grid-item-card:: How to teach Python
+
+        by Kristian Rother
+
+        .. image:: teaching-python.png
+            :alt: «How to teach Python» by Kristian Rother
+
+        :download:`PDF, 971 KB <teaching_python.pdf>`
 
 .. grid:: 3
 
