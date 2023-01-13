@@ -6,7 +6,7 @@
     :date: 12 January 2023
     :read-time: <1 min
 
-.. grid:: 1
+.. grid:: 3
 
     .. grid-item-card:: How to teach Python
 
@@ -16,8 +16,6 @@
             :alt: «How to teach Python» by Kristian Rother
 
         :download:`PDF, 971 KB <teaching_python.pdf>`
-
-.. grid:: 3
 
     .. grid-item-card:: Practical Data Privacy
 
@@ -39,6 +37,8 @@
 
         :download:`PDF, 1.6 MB <2022-09-07_copyright-software-licenses-and-python.pdf>`
 
+.. grid:: 3
+
     .. grid-item-card:: Protect intellectual property
 
         by Michael Meinel
@@ -48,8 +48,6 @@
                   by Michael Meinel
 
         :download:`PDF, 1.0 MB <ip-in-python.pdf>`
-
-.. grid:: 3
 
     .. grid-item-card:: asyncio and friends
 
@@ -69,6 +67,8 @@
 
         :download:`PDF, 144 KB <sqlparse_pub_2021-08-04.pdf>`
 
+.. grid:: 3
+
     .. grid-item-card:: Sending million Pushes
 
         by Trung Phan
@@ -77,8 +77,6 @@
             :alt: «Sending million Pushes» by Trung Phan
 
         :download:`PDF, 852 KB <sending-million-pushes.pdf>`
-
-.. grid:: 3
 
     .. grid-item-card:: Great Expectations
 
@@ -89,6 +87,18 @@
 
         :download:`PDF, 1.4 MB
         <Great Expectations - Python Users Berlin - Nov 2020.pdf>`
+
+    .. grid-item-card:: Rust for Pythonistas
+
+        by Christian Kauhaus
+
+        .. image:: rust-for-pythonistas.png
+            :alt: «Rust for Pythonistas» by Christian Kauhaus
+
+        :download:`PDF, 3.1 MB
+        <Rust-for-Pythonistas.pdf>`
+
+.. grid:: 3
 
     .. grid-item-card:: Deta – zero to cloud micro-app
 
