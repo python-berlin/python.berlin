@@ -25,7 +25,7 @@
             :alt: «Practical Data Privacy. An Introduction to Privacy Technology
                   futures» by Katharine Jarmul
 
-        :download:`PDF, 48.5 KB <practical-data-privacy.pdf>`
+        :download:`PDF, 754 KB <practical-data-privacy.pdf>`
 
     .. grid-item-card:: Copyright, Software Licenses and Python
 
