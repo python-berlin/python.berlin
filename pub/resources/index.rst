@@ -3,8 +3,20 @@
 
 .. article-info::
     :author: `Veit Schiele <https://github.com/veit/>`_
-    :date: 12 January 2023
+    :date: 9 February 2023
     :read-time: <1 min
+
+.. grid:: 1
+
+    .. grid-item-card:: Writing plugin-friendly applications in Python
+
+        by Travis Hathaway
+
+        .. image:: writing-plugin-friendly-applications-in-python.png
+            :alt: «Writing plugin-friendly applications in Python» by Travis Hathaway
+
+        :download:`PDF, 1.8 MB
+        <writing-plugin-friendly-applications-in-python.pdf>`
 
 .. grid:: 3
 
