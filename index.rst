@@ -44,6 +44,15 @@ In Berlin there is a diverse scene around the Python programming language.
             :alt: PyData Berlin logo
             :target: pydata-berlin/index.html
 
+.. grid:: 3
+
+    .. grid-item-card:: PyBerlin
+
+        .. image:: pyberlin/logo.png
+            :alt: PyBerlin logo
+            :target: pyberlin/index.html
+
+
 .. toctree::
    :maxdepth: 1
    :hidden:
@@ -54,6 +63,7 @@ In Berlin there is a diverse scene around the Python programming language.
    djangogirls-berlin/index
    opentechschool-berlin/index
    pydata-berlin/index
+   pyberlin/index
    collaboration
 
 .. Indices and tables
