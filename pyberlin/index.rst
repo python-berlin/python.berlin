@@ -6,7 +6,7 @@ PyBerlin
     :date: 20 February 2023
     :read-time: ~2 min
 
-PyBerlin is a community based in Berlin for users and developers that are
+PyBerlin is an inclusive community based in Berlin for users and developers that are
 brought together by their love for Python and for sharing knowledge. We are
 gathering for events, workshops and social gatherings.
 
@@ -39,7 +39,7 @@ Follow us on
 
 
 * Twitter `@PyBerlinPython <https://twitter.com/PyBerlinPython/>`_
-* Fosstodon `@pyberlin@fosstodon.org <https://fosstodon.org/>`_
+* Fosstodon `@pyberlin <https://fosstodon.org/@pyberlin/>`_
 * LinkedIn `PyBerlin <https://www.linkedin.com/groups/12432262/>`_
 
 email
@@ -57,6 +57,6 @@ Organizers
 ----------
 
 `Adam Serafini <https://www.meetup.com/pyberlin/members/214160528/>`_,
-`Anastasiia Tymoshchuk <hhttps://www.meetup.com/pyberlin/members/194413957/>`_,
+`Anastasiia Tymoshchuk <https://www.meetup.com/pyberlin/members/194413957/>`_,
 `Jose Manuel Valdivia Romero <https://www.meetup.com/pyberlin/members/253632339/>`_,
 `Slavita Baciuna <https://www.meetup.com/pyberlin/members/98281882/>`__
