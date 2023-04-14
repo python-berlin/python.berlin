@@ -6,7 +6,17 @@
     :date: 9 February 2023
     :read-time: <1 min
 
-.. grid:: 1
+.. grid:: 2
+
+    .. grid-item-card:: Pyodide – A Python distribution for the browser
+
+        by Roman Yurchak
+
+        .. image:: pyodide_pub_2023-04-13.png
+            :alt: «Pyodide – A Python distribution for the browser» by Roman Yurchak
+
+        :download:`PDF, 1.3 MB
+        <pyodide_pub_2023-04-13.pdf>`
 
     .. grid-item-card:: Writing plugin-friendly applications in Python
 
