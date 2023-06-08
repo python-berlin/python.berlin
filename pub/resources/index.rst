@@ -3,10 +3,22 @@
 
 .. article-info::
     :author: `Veit Schiele <https://github.com/veit/>`_
-    :date: 9 February 2023
-    :read-time: <1 min
+    :date: 8 June 2023
+    :read-time: ~1 min
 
-.. grid:: 2
+.. grid:: 3
+
+    .. grid-item-card:: pyOpenSci – Diverse Community Around the Open Tools that
+        Drive Open Science
+
+        by Leah Wasser
+
+        .. image:: pyOS-pyberlin-meetup-overview-june-7-2023.png
+            :alt: «pyOpenSci – Diverse Community Around the Open Tools that
+                  Drive Open Science» by Leah Wasser
+
+        :download:`PDF, 4.8 MB
+        <pyOS-pyberlin-meetup-overview-june-7-2023.pdf>`
 
     .. grid-item-card:: Pyodide – A Python distribution for the browser
 
