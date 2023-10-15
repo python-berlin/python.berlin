@@ -5,10 +5,10 @@ python.berlin
 The `python.berlin <https://python.berlin>`_ website allows all Berlin Python
 User Groups to introduce themselves, present slides, code examples etc.
 
-.. collaboration:
-
 🤝 Collaboration
 ================
+
+.. collaboration:
 
 If you have suggestions for improvements and additions, I recommend that you
 create a `Fork <https://github.com/python-berlin/python.berlin_website/fork>`_
