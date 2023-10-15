@@ -31,7 +31,7 @@ Download and installation
 
     $ cd python.berlin
     $ $ python3 -m venv .
-    $ source bin/activate
+    $ . bin/activate
     $ python -m pip install --upgrade pip
     $ python -m pip install -r requirements_dev.txt
     $ pre-commit install
@@ -40,4 +40,5 @@ Download and installation
 
    .. code-block:: console
 
+    $ cd docs
     $ make html
