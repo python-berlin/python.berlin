@@ -3,7 +3,7 @@
 
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.4.0
+    rev: v4.5.0
     hooks:
     -   id: trailing-whitespace
     -   id: end-of-file-fixer
@@ -12,7 +12,7 @@ repos:
         types: [file]  # override `types: [json]`
         files: \.(json|ipynb)$
   - repo: https://github.com/psf/black
-    rev: "23.9.1"
+    rev: "23.12.1"
     hooks:
       - id: black
   - repo: https://github.com/asottile/reorder-python-imports
@@ -20,12 +20,12 @@ repos:
     hooks:
     -   id: reorder-python-imports
   - repo: https://github.com/pycqa/flake8
-    rev: "6.1.0"
+    rev: "7.0.0"
     hooks:
       - id: flake8
         language_version: python3
   - repo: https://github.com/sphinx-contrib/sphinx-lint
-    rev: v0.7.0
+    rev: v0.9.1
     hooks:
     - id: sphinx-lint
       args: [--jobs=1]
