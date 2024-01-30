@@ -7,7 +7,7 @@ charset-normalizer==3.3.2
 distlib==0.3.8
 docutils==0.20.1
 filelock==3.13.1
-furo==2023.9.10
+furo==2024.1.29
 identify==2.5.33
 idna==3.6
 imagesize==1.4.1
