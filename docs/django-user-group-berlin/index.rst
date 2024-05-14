@@ -1,7 +1,12 @@
 Django User Group Berlin (djub)
 ===============================
 
-We are a group of Python web developers from Berlin who use Django–the Python
+.. article-info::
+    :author: `Maik Sprenger <https://github.com/maiksprenger/>`_
+    :date: 14 May 2024
+    :read-time: 1–2 min
+
+We are a group of Python web developers from Berlin who use Django – the Python
 Web Framework. We usually are speaking English, no knowledge of German is
 required.
 
