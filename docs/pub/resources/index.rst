@@ -3,10 +3,21 @@
 
 .. article-info::
     :author: `Veit Schiele <https://github.com/veit/>`_
-    :date: 8 June 2023
-    :read-time: ~1 min
+    :date: 11 July 2024
+    :read-time: 1–2 min
 
 .. grid:: 3
+
+    .. grid-item-card:: zopyx-fastapi-auth – An opinionated authentication
+       solution for FastAPI
+
+       by Andreas Jung
+
+       .. image:: fastapi-auth.png
+          :alt: «zopyx-fastapi-auth – An opinionated authentication solution
+                for FastAPI» by Andreas Jung
+
+       :download:`PDF, 6.0 MB <fastapi-auth.pdf>`
 
     .. grid-item-card:: pyOpenSci – Diverse Community Around the Open Tools that
         Drive Open Science
@@ -30,6 +41,8 @@
         :download:`PDF, 1.3 MB
         <pyodide_pub_2023-04-13.pdf>`
 
+.. grid:: 3
+
     .. grid-item-card:: Writing plugin-friendly applications in Python
 
         by Travis Hathaway
@@ -39,8 +52,6 @@
 
         :download:`PDF, 1.8 MB
         <writing-plugin-friendly-applications-in-python.pdf>`
-
-.. grid:: 3
 
     .. grid-item-card:: How to teach Python
 
@@ -61,6 +72,8 @@
 
         :download:`PDF, 754 KB <practical-data-privacy.pdf>`
 
+.. grid:: 3
+
     .. grid-item-card:: Copyright, Software Licenses and Python
 
         by Tobias Schlauch
@@ -70,8 +83,6 @@
                   by Tobias Schlauch
 
         :download:`PDF, 1.6 MB <2022-09-07_copyright-software-licenses-and-python.pdf>`
-
-.. grid:: 3
 
     .. grid-item-card:: Protect intellectual property
 
@@ -92,6 +103,8 @@
 
         :download:`PDF, 251 KB <AsyncIO_ Python Users Berlin.pdf>`
 
+.. grid:: 3
+
     .. grid-item-card:: sqlparse
 
         by Andi Albrecht
@@ -100,8 +113,6 @@
             :alt: «sqlparse – a short introduction» by Andi Albrecht
 
         :download:`PDF, 144 KB <sqlparse_pub_2021-08-04.pdf>`
-
-.. grid:: 3
 
     .. grid-item-card:: Sending million Pushes
 
@@ -122,6 +133,8 @@
         :download:`PDF, 1.4 MB
         <Great Expectations - Python Users Berlin - Nov 2020.pdf>`
 
+.. grid:: 3
+
     .. grid-item-card:: Rust for Pythonistas
 
         by Christian Kauhaus
@@ -131,8 +144,6 @@
 
         :download:`PDF, 3.1 MB
         <Rust-for-Pythonistas.pdf>`
-
-.. grid:: 3
 
     .. grid-item-card:: Deta – zero to cloud micro-app
 
