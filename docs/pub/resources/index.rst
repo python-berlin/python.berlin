@@ -3,8 +3,19 @@
 
 .. article-info::
     :author: `Veit Schiele <https://github.com/veit/>`_
-    :date: 11 July 2024
+    :date: 12 September 2024
     :read-time: 1–2 min
+
+.. grid:: 1
+
+    .. grid-item-card:: Let’s spark children’s interest in coding
+
+       by Matthias Kirschner
+
+       .. image:: ada-zangemann.png
+          :alt: Let’s spark children’s interest in coding
+
+       :download:`PDF, 45,4 MB <ada-zangemann.pdf>`
 
 .. grid:: 3
 
