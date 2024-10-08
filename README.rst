@@ -30,11 +30,9 @@ Download and installation
    .. code-block:: console
 
     $ cd python.berlin
-    $ python3 -m venv .
-    $ . bin/activate
-    $ python -m pip install --upgrade pip
-    $ python -m pip install -r requirements_dev.txt
-    $ pre-commit install
+    $ python3 -m venv .venv
+    $ . .venv/bin/activate
+    $ python -m pip install -e ".[dev]"
 
 #. Create HTML
 
