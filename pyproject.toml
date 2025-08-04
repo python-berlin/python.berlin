@@ -20,6 +20,7 @@ docs = [
     "furo",
     "sphinxext-opengraph",
     "sphinx-copybutton",
+    "sphinx-sitemap",
 ]
 
 dev = [
