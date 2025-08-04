@@ -1,5 +1,5 @@
 🤝 Collaboration
 ================
 
-.. include:: README.rst
+.. include:: ../README.rst
    :start-after: collaboration
