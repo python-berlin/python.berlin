@@ -15,9 +15,9 @@ if os.environ.get("READTHEDOCS", "") == "True":
     html_context["READTHEDOCS"] = True
 
 project = "python.berlin"
-copyright = "2023, Berlin Python User Groups"
+copyright = "2025, Berlin Python User Groups"
 author = "Berlin Python User Groups"
-release = "1.0.0"
+release = "2025.1.0"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
