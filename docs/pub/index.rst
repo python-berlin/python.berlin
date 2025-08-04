@@ -19,7 +19,6 @@ More information can be found on our :doc:`wish-list`.
 Follow us on
 ------------
 
-* `Twitter <https://twitter.com/PyBerlin>`_
 * `Mastodon <https://mastodon.social/@pyberlin>`_
 * `LinkedIn <https://www.linkedin.com/groups/12700112/>`_
 
@@ -36,14 +35,13 @@ Every 2nd Thursday of the month.
 Where
 -----
 
-Online in the Covid times, otherwise at `co.up coworking, Adalbertstr. 7–8,
-10999 Berlin <http://co-up.de/>`_
+Different places
 
 Code of Conduct
 ---------------
 
 We expect all participants in our events and in our community to abide by this
-`Code of Conduct <https://cusy.io/en/about/code-of-conduct>`_.
+`Code of Conduct <https://cusy.io/en/about/code-of-conduct.html>`_.
 
 Meetup
 ------
