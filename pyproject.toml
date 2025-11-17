@@ -6,7 +6,7 @@ authors = [
 ]
 description = "Berlin Python User Groups"
 readme = "README.rst"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: BSD License",
