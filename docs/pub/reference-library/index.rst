@@ -130,11 +130,11 @@
     Best Practices für Programmierer
     By Kenneth Reitz
     Juni 2017
-`Einführung in Machine Learning mit Python <https://www.oreilly.de/buecher/12825/9783960090496-einf%C3%BChrung-in-machine-learning-mit-python.html>`_
+`Einführung in Machine Learning mit Python <https://www.oreilly.com/library/view/einfuhrung-in-machine/9781492064619/>`_
     Praxiswissen Data Science
     By Andreas C. Müller / Sarah Guido
     Juni 2017
-`Neuronale Netze selbst programmieren <https://www.oreilly.de/buecher/12892/9783960090434-neuronale-netze-selbst-programmieren.html>`_
+`Neuronale Netze selbst programmieren <https://dpunkt.de/produkt/neuronale-netze-selbst-programmieren-2/>`_
     Ein verständlicher Einstieg mit Python
     By Tariq Rashid
     April 2017
