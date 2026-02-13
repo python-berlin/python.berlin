@@ -3,10 +3,19 @@
 
 .. article-info::
     :author: `Veit Schiele <https://github.com/veit/>`_
-    :date: 12 September 2024
+    :date: 13 February 2026
     :read-time: 1–2 min
 
-.. grid:: 1
+.. grid:: 3
+
+    .. grid-item-card:: The paradox of itertools.tee
+
+       by Rodrigo Girão Serrão
+
+       .. image:: itertools-tee.png
+          :alt: The paradox of itertools.tee
+
+       :download:`PDF, 8,6 MB <itertools-tee.pdf>`
 
     .. grid-item-card:: Let’s spark children’s interest in coding
 
@@ -16,8 +25,6 @@
           :alt: Let’s spark children’s interest in coding
 
        :download:`PDF, 45,4 MB <ada-zangemann.pdf>`
-
-.. grid:: 3
 
     .. grid-item-card:: zopyx-fastapi-auth – An opinionated authentication
        solution for FastAPI
@@ -52,8 +59,6 @@
         :download:`PDF, 1.3 MB
         <pyodide_pub_2023-04-13.pdf>`
 
-.. grid:: 3
-
     .. grid-item-card:: Writing plugin-friendly applications in Python
 
         by Travis Hathaway
@@ -82,8 +87,6 @@
                   futures» by Katharine Jarmul
 
         :download:`PDF, 754 KB <practical-data-privacy.pdf>`
-
-.. grid:: 3
 
     .. grid-item-card:: Copyright, Software Licenses and Python
 
@@ -114,8 +117,6 @@
 
         :download:`PDF, 251 KB <AsyncIO_ Python Users Berlin.pdf>`
 
-.. grid:: 3
-
     .. grid-item-card:: sqlparse
 
         by Andi Albrecht
@@ -143,8 +144,6 @@
 
         :download:`PDF, 1.4 MB
         <Great Expectations - Python Users Berlin - Nov 2020.pdf>`
-
-.. grid:: 3
 
     .. grid-item-card:: Rust for Pythonistas
 
