@@ -20,7 +20,7 @@ In Berlin there is a diverse scene around the Python programming language.
 
     .. grid-item-card:: Django User Group Berlin (djub)
 
-        .. image:: django-user-group-berlin/logo.jpg
+        .. image:: django-user-group-berlin/logo.png
             :alt: Django User Group Berlin logo
             :target: django-user-group-berlin/index.html
 
