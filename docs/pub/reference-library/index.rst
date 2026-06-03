@@ -2,9 +2,13 @@
 ====================
 
 .. article-info::
-    :author: `Veit Schiele <https://github.com/veit/>`_
-    :date: 6 May 2020
-    :read-time: 2–3 min
+   :avatar: https://avatars.githubusercontent.com/u/844779?v=4
+   :avatar-link: https://github.com/veit/
+   :avatar-outline: muted
+   :author: `Veit Schiele <https://github.com/veit/>`_
+   :date: 3 June 2026
+   :read-time: 2–3 minutes
+   :class-container: sd-p-2 sd-outline-muted sd-rounded-1
 
 .. grid:: 3
 
@@ -26,8 +30,6 @@
             :alt: «UX-Strategie» von Jaime Levy
             :target: https://dpunkt.de/produkt/ux-strategie/
 
-.. grid:: 3
-
     .. grid-item-card::
 
         .. image:: https://oreilly.de/wp-content/uploads/2021/11/13848.jpg
@@ -45,8 +47,6 @@
         .. image:: https://oreilly.de/wp-content/uploads/2021/05/13738.jpg
             :alt: «MLOps – Kernkonzepte im Überblick» von Mark Treveil und dem Dataiku-Team
             :target: https://oreilly.de/produkt/mlops-kernkonzepte-im-ueberblick/
-
-.. grid:: 3
 
     .. grid-item-card::
 
@@ -66,8 +66,6 @@
             :alt: «»Machine Learning – kurz & gut von Chi Nhan Nguyen und Oliver Zeigermann
             :target: https://dpunkt.de/produkt/machine-learning-kurz-gut/
 
-.. grid:: 3
-
     .. grid-item-card::
 
         .. image:: https://www.mitp.de/out/pictures/generated/product/1/540_340_75/9783747503775(1).jpg
@@ -86,8 +84,6 @@
             :alt: «Machine Learning mit Python» von Sebastian Raschka und Vahid Mirjalili
             :target: https://www.mitp.de/IT-WEB/KI-Data-Science/Machine-Learning-mit-Python.html
 
-.. grid:: 3
-
     .. grid-item-card::
 
         .. image:: https://www.mitp.de/out/pictures/generated/product/1/540_340_75/9783958459410-4.jpeg
@@ -105,8 +101,6 @@
         .. image:: https://oreilly.de/wp-content/uploads/2020/06/13572-scaled-600x873@2x.jpg
             :alt: «Machine Learning – Die Referenz» von Matt Harrison
             :target: https://oreilly.de/produkt/machine-learning-die-referenz/
-
-.. grid:: 3
 
     .. grid-item-card::
 

@@ -2,9 +2,13 @@ Python Users Berlin
 ===================
 
 .. article-info::
-    :author: `Veit Schiele <https://github.com/veit/>`_
-    :date: 14 August 2022
-    :read-time: 1–2 min
+   :avatar: https://avatars.githubusercontent.com/u/844779?v=4
+   :avatar-link: https://github.com/veit/
+   :avatar-outline: muted
+   :author: `Veit Schiele <https://github.com/veit/>`_
+   :date: 3 June 2026
+   :read-time: ~1 minute
+   :class-container: sd-p-2 sd-outline-muted sd-rounded-1
 
 Python Users Berlin (PUB) is a diverse community around the Python open-source
 programming language. Through outreach, workshops, events and social gatherings,
@@ -20,6 +24,7 @@ Follow us on
 ------------
 
 * `Mastodon <https://mastodon.social/@pyberlin>`_
+* `Bluesky <https://bsky.app/profile/python.berlin>`_
 * `LinkedIn <https://www.linkedin.com/groups/12700112/>`_
 
 Audience
@@ -47,6 +52,12 @@ Meetup
 ------
 
 `Python Users Berlin (PUB) <http://www.meetup.com/Python-Users-Berlin-PUB/>`_
+
+Organisers
+----------
+
+* `Veit Schiele <https://github.com/veit/>`_
+* `Travis Hathaway <https://github.com/travishathaway>`_
 
 .. toctree::
    :maxdepth: 2

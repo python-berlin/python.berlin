@@ -2,9 +2,13 @@
 ============
 
 .. article-info::
-    :author: `Veit Schiele <https://github.com/veit/>`_
-    :date: 13 February 2026
-    :read-time: 1–2 min
+   :avatar: https://avatars.githubusercontent.com/u/844779?v=4
+   :avatar-link: https://github.com/veit/
+   :avatar-outline: muted
+   :author: `Veit Schiele <https://github.com/veit/>`_
+   :date: 3 June 2026
+   :read-time: 1–2 minutes
+   :class-container: sd-p-2 sd-outline-muted sd-rounded-1
 
 .. grid:: 3
 
