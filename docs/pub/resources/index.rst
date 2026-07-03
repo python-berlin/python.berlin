@@ -6,11 +6,20 @@
    :avatar-link: https://github.com/veit/
    :avatar-outline: muted
    :author: `Veit Schiele <https://github.com/veit/>`_
-   :date: 3 June 2026
+   :date: 3 July 2026
    :read-time: 1–2 minutes
    :class-container: sd-p-2 sd-outline-muted sd-rounded-1
 
 .. grid:: 3
+
+    .. grid-item-card:: Introduction to PySpark
+
+       by Sam Bail
+
+       .. image:: pyspark_PUB-july-2026.png
+          :alt: Introduction to PySpark
+
+       :download:`PDF, 578 KB <pyspark_PUB-july-2026.pdf>`
 
     .. grid-item-card:: The paradox of itertools.tee
 
