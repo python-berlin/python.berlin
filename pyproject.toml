@@ -25,7 +25,7 @@ docs = [
 
 dev = [
     { include-group = "docs" },
-    "pre-commit",
+    "prek",
 ]
 
 [project.urls]

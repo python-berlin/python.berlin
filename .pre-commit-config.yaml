@@ -19,7 +19,7 @@ repos:
     hooks:
       - id: black
   - repo: https://github.com/asottile/reorder-python-imports
-    rev: 5e38415c12154247a099c7023c210e3d458275b5 # v3.17.0
+    rev: 7885866bd38c852b5e042c4aeef0285d715ffeee  # frozen: v3.16.0
     hooks:
     -   id: reorder-python-imports
   - repo: https://github.com/pycqa/flake8
