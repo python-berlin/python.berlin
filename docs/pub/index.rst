@@ -58,6 +58,7 @@ Organisers
 
 * `Veit Schiele <https://github.com/veit/>`_
 * `Travis Hathaway <https://github.com/travishathaway>`_
+* `Sam Bail <https://github.com/spbail>`_
 
 .. toctree::
    :maxdepth: 2
