@@ -9,7 +9,7 @@ In Berlin there is a diverse scene around the Python programming language.
     .. grid-item-card:: Python Users Berlin (PUB)
 
         .. image:: pub/logo.png
-            :alt: Python logo
+            :alt: PUB logo
             :target: pub/index.html
 
     .. grid-item-card:: PyLadies Berlin
