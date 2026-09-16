@@ -6,11 +6,20 @@
    :avatar-link: https://github.com/veit/
    :avatar-outline: muted
    :author: `Veit Schiele <https://github.com/veit/>`_
-   :date: 3 July 2026
-   :read-time: 1–2 minutes
+   :date: 16 September 2026
+   :read-time: ~1 minute
    :class-container: sd-p-2 sd-outline-muted sd-rounded-1
 
 .. grid:: 3
+
+    .. grid-item-card:: Django Insight UI
+
+       by Matti Schwartz
+
+       .. image:: Insight-UI.png
+          :alt: Django Insight UI
+
+       :download:`PDF, 328 KB <Insight-UI.pdf>`
 
     .. grid-item-card:: Introduction to PySpark
 
